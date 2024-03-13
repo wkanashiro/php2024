@@ -47,5 +47,167 @@
     "telefone" : "(67) 97162-1102",
     "data_nascimento" : "13/06/1982",
     "curso" : "Tecnologia em Sistemas para Internet"
-  }
+  },
+  {
+      "nome": "Amanda Silva",
+      "telefone": "(55) 98765-4321",
+      "data_nascimento": "05/08/1990",
+      "curso": "Engenharia Elétrica"
+    },
+    {
+      "nome": "Luciana Oliveira",
+      "telefone": "(81) 94567-1234",
+      "data_nascimento": "17/03/1985",
+      "curso": "Ciência da Computação"
+    },
+    {
+      "nome": "Rafael Santos",
+      "telefone": "(34) 87654-2109",
+      "data_nascimento": "22/06/1998",
+      "curso": "Medicina"
+    },
+    {
+      "nome": "Gabriel Lima",
+      "telefone": "(92) 87654-3210",
+      "data_nascimento": "08/04/1995",
+      "curso": "Tecnologia em Sistemas para Internet"
+    },
+    {
+      "nome": "Camila Almeida",
+      "telefone": "(47) 90876-5432",
+      "data_nascimento": "14/11/1993",
+      "curso": "Engenharia Elétrica"
+    },
+    {
+      "nome": "Fernando Pereira",
+      "telefone": "(21) 89076-2345",
+      "data_nascimento": "30/09/1987",
+      "curso": "Ciência da Computação"
+    },
+    {
+      "nome": "Mariana Souza",
+      "telefone": "(61) 98765-6789",
+      "data_nascimento": "02/02/1992",
+      "curso": "Medicina"
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "telefone": "(81) 87654-0987",
+      "data_nascimento": "19/07/1996",
+      "curso": "Tecnologia em Sistemas para Internet"
+    },
+    {
+      "nome": "Juliana Santos",
+      "telefone": "(32) 90876-5678",
+      "data_nascimento": "25/03/1991",
+      "curso": "Engenharia Elétrica"
+    },
+    {
+      "nome": "Vinícius Costa",
+      "telefone": "(54) 87654-7890",
+      "data_nascimento": "12/12/1989",
+      "curso": "Ciência da Computação"
+    },
+    {
+      "nome": "Isabela Lima",
+      "telefone": "(92) 90876-4567",
+      "data_nascimento": "07/06/1994",
+      "curso": "Medicina"
+    },
+    {
+      "nome": "Lucas Martins",
+      "telefone": "(47) 87654-2345",
+      "data_nascimento": "03/05/1988",
+      "curso": "Tecnologia em Sistemas para Internet"
+    },
+    {
+      "nome": "Carolina Santos",
+      "telefone": "(21) 98765-8765",
+      "data_nascimento": "18/08/1997",
+      "curso": "Engenharia Elétrica"
+    },
+    {
+      "nome": "Gustavo Almeida",
+      "telefone": "(61) 87654-7654",
+      "data_nascimento": "28/01/1990",
+      "curso": "Ciência da Computação"
+    },
+    {
+      "nome": "Fernanda Pereira",
+      "telefone": "(81) 90876-5432",
+      "data_nascimento": "23/09/1998",
+      "curso": "Medicina"
+    },
+    {
+      "nome": "Thiago Silva",
+      "telefone": "(32) 87654-3210",
+      "data_nascimento": "15/04/1993",
+      "curso": "Tecnologia em Sistemas para Internet"
+    },
+    {
+      "nome": "Patrícia Oliveira",
+      "telefone": "(54) 90876-2345",
+      "data_nascimento": "09/11/1986",
+      "curso": "Engenharia Elétrica"
+    },
+    {
+      "nome": "André Lima",
+      "telefone": "(92) 87654-0987",
+      "data_nascimento": "04/07/1995",
+      "curso": "Ciências da Computação"
+    },
+    {
+      "nome": "Ana Souza",
+      "telefone": "(47) 90876-5678",
+      "data_nascimento": "20/03/1992",
+      "curso": "Medicina"
+    },
+    {
+      "nome": "Luiz Pereira",
+      "telefone": "(21) 87654-7890",
+      "data_nascimento": "06/02/1989",
+      "curso": "Tecnologia em Sistemas para Internet"
+    },
+    {
+      "nome": "Bianca Costa",
+      "telefone": "(61) 90876-4567",
+      "data_nascimento": "01/07/1994",
+      "curso": "Engenharia Elétrica"
+    },
+    {
+      "nome": "Ricardo Santos",
+      "telefone": "(81) 87654-2345",
+      "data_nascimento": "27/05/1988",
+      "curso": "Ciência da Computação"
+    },
+    {
+      "nome": "Cristina Almeida",
+      "telefone": "(32) 98765-8765",
+      "data_nascimento": "13/10/1997",
+      "curso": "Medicina"
+    },
+    {
+      "nome": "Roberto Lima",
+      "telefone": "(54) 87654-7654",
+      "data_nascimento": "10/03/1990",
+      "curso": "Tecnologia em Sistemas para Internet"
+    },
+    {
+      "nome": "Laura Martins",
+      "telefone": "(92) 90876-5432",
+      "data_nascimento": "26/08/1998",
+      "curso": "Engenharia Elétrica"
+    },
+    {
+      "nome": "Guilherme Almeida",
+      "telefone": "(47) 87654-3210",
+      "data_nascimento": "21/01/1993",
+      "curso": "Ciência da Computação"
+    },
+    {
+      "nome": "Eduarda Silva",
+      "telefone": "(81) 90876-2345",
+      "data_nascimento": "16/09/1986",
+      "curso": "Medicina"
+    }
 ]
