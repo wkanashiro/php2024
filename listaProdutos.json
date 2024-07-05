@@ -1,0 +1,202 @@
+[
+    {
+        "nome": "Notebook Dell",
+        "valor": 4500.00
+    },
+    {
+        "nome": "Smartphone Samsung",
+        "valor": 2500.00
+    },
+    {
+        "nome": "Tablet Apple",
+        "valor": 3500.00
+    },
+    {
+        "nome": "Smartwatch Xiaomi",
+        "valor": 900.00
+    },
+    {
+        "nome": "Câmera Canon",
+        "valor": 3200.00
+    },
+    {
+        "nome": "Fone de Ouvido Sony",
+        "valor": 600.00
+    },
+    {
+        "nome": "Teclado Logitech",
+        "valor": 250.00
+    },
+    {
+        "nome": "Monitor LG",
+        "valor": 1100.00
+    },
+    {
+        "nome": "Impressora HP",
+        "valor": 700.00
+    },
+    {
+        "nome": "Mouse Razer",
+        "valor": 350.00
+    },
+    {
+        "nome": "Roteador TP-Link",
+        "valor": 150.00
+    },
+    {
+        "nome": "SSD Kingston",
+        "valor": 400.00
+    },
+    {
+        "nome": "Memória RAM Corsair",
+        "valor": 450.00
+    },
+    {
+        "nome": "Placa de Vídeo Nvidia",
+        "valor": 2500.00
+    },
+    {
+        "nome": "HD Seagate",
+        "valor": 300.00
+    },
+    {
+        "nome": "Processador Intel",
+        "valor": 1200.00
+    },
+    {
+        "nome": "Fonte Corsair",
+        "valor": 400.00
+    },
+    {
+        "nome": "Gabinete Cooler Master",
+        "valor": 350.00
+    },
+    {
+        "nome": "Headset HyperX",
+        "valor": 500.00
+    },
+    {
+        "nome": "Cadeira Gamer DXRacer",
+        "valor": 1300.00
+    },
+    {
+        "nome": "Controle Xbox",
+        "valor": 350.00
+    },
+    {
+        "nome": "Webcam Logitech",
+        "valor": 250.00
+    },
+    {
+        "nome": "Microfone Blue Yeti",
+        "valor": 700.00
+    },
+    {
+        "nome": "Laptop HP",
+        "valor": 3800.00
+    },
+    {
+        "nome": "Carregador Portátil Anker",
+        "valor": 150.00
+    },
+    {
+        "nome": "TV Samsung 4K",
+        "valor": 4200.00
+    },
+    {
+        "nome": "Projetor Epson",
+        "valor": 3200.00
+    },
+    {
+        "nome": "Kindle Amazon",
+        "valor": 500.00
+    },
+    {
+        "nome": "Fire TV Stick",
+        "valor": 250.00
+    },
+    {
+        "nome": "Soundbar JBL",
+        "valor": 800.00
+    },
+    {
+        "nome": "Switch Nintendo",
+        "valor": 2200.00
+    },
+    {
+        "nome": "Gamepad Logitech",
+        "valor": 200.00
+    },
+    {
+        "nome": "Monitor AOC",
+        "valor": 900.00
+    },
+    {
+        "nome": "SSD Samsung",
+        "valor": 550.00
+    },
+    {
+        "nome": "Dock Station Dell",
+        "valor": 700.00
+    },
+    {
+        "nome": "Impressora Epson",
+        "valor": 850.00
+    },
+    {
+        "nome": "Hub USB Anker",
+        "valor": 120.00
+    },
+    {
+        "nome": "Leitor de Cartões Sandisk",
+        "valor": 90.00
+    },
+    {
+        "nome": "Smart Speaker Google Nest",
+        "valor": 300.00
+    },
+    {
+        "nome": "Relógio Garmin",
+        "valor": 1500.00
+    },
+    {
+        "nome": "Placa-Mãe Asus",
+        "valor": 900.00
+    },
+    {
+        "nome": "Ventilador Arno",
+        "valor": 200.00
+    },
+    {
+        "nome": "Aspirador de Pó Electrolux",
+        "valor": 450.00
+    },
+    {
+        "nome": "Máquina de Lavar Samsung",
+        "valor": 2500.00
+    },
+    {
+        "nome": "Refrigerador Brastemp",
+        "valor": 3500.00
+    },
+    {
+        "nome": "Micro-ondas LG",
+        "valor": 600.00
+    },
+    {
+        "nome": "Fogão Consul",
+        "valor": 1200.00
+    },
+    {
+        "nome": "Máquina de Café Nespresso",
+        "valor": 800.00
+    },
+    {
+        "nome": "Torradeira Philco",
+        "valor": 150.00
+    },
+    {
+        "nome": "Liquidificador Oster",
+        "valor": 250.00
+    }
+]
