@@ -1,0 +1,198 @@
+[
+    {
+        "origemDestino": "CGR-GRU",
+        "valor": 350.00
+    },
+    {
+        "origemDestino": "CGR-EZE",
+        "valor": 800.00
+    },
+    {
+        "origemDestino": "GIG-JFK",
+        "valor": 2500.00
+    },
+    {
+        "origemDestino": "GRU-LAX",
+        "valor": 2800.00
+    },
+    {
+        "origemDestino": "BSB-CDG",
+        "valor": 4200.00
+    },
+    {
+        "origemDestino": "SSA-MIA",
+        "valor": 2300.00
+    },
+    {
+        "origemDestino": "CWB-ORD",
+        "valor": 2700.00
+    },
+    {
+        "origemDestino": "POA-YYZ",
+        "valor": 2900.00
+    },
+    {
+        "origemDestino": "REC-FRA",
+        "valor": 3400.00
+    },
+    {
+        "origemDestino": "BEL-LIS",
+        "valor": 3200.00
+    },
+    {
+        "origemDestino": "MAO-BCN",
+        "valor": 3100.00
+    },
+    {
+        "origemDestino": "NAT-MEX",
+        "valor": 2800.00
+    },
+    {
+        "origemDestino": "FLN-AMS",
+        "valor": 3600.00
+    },
+    {
+        "origemDestino": "VCP-JNB",
+        "valor": 3900.00
+    },
+    {
+        "origemDestino": "CGR-MVD",
+        "valor": 600.00
+    },
+    {
+        "origemDestino": "GRU-SCL",
+        "valor": 900.00
+    },
+    {
+        "origemDestino": "GIG-MAD",
+        "valor": 3500.00
+    },
+    {
+        "origemDestino": "BSB-ORY",
+        "valor": 4000.00
+    },
+    {
+        "origemDestino": "SSA-FCO",
+        "valor": 3700.00
+    },
+    {
+        "origemDestino": "CWB-GRU",
+        "valor": 200.00
+    },
+    {
+        "origemDestino": "POA-SCL",
+        "valor": 1100.00
+    },
+    {
+        "origemDestino": "REC-JFK",
+        "valor": 2400.00
+    },
+    {
+        "origemDestino": "BEL-MIA",
+        "valor": 2200.00
+    },
+    {
+        "origemDestino": "MAO-GRU",
+        "valor": 500.00
+    },
+    {
+        "origemDestino": "NAT-EZE",
+        "valor": 700.00
+    },
+    {
+        "origemDestino": "FLN-LIS",
+        "valor": 3500.00
+    },
+    {
+        "origemDestino": "VCP-FRA",
+        "valor": 3300.00
+    },
+    {
+        "origemDestino": "CGR-JNB",
+        "valor": 4200.00
+    },
+    {
+        "origemDestino": "GRU-DOH",
+        "valor": 5000.00
+    },
+    {
+        "origemDestino": "GIG-PTY",
+        "valor": 1300.00
+    },
+    {
+        "origemDestino": "BSB-SCL",
+        "valor": 1000.00
+    },
+    {
+        "origemDestino": "SSA-MCO",
+        "valor": 2500.00
+    },
+    {
+        "origemDestino": "CWB-LIM",
+        "valor": 1200.00
+    },
+    {
+        "origemDestino": "POA-BOG",
+        "valor": 1400.00
+    },
+    {
+        "origemDestino": "REC-MAD",
+        "valor": 3700.00
+    },
+    {
+        "origemDestino": "BEL-CDG",
+        "valor": 3900.00
+    },
+    {
+        "origemDestino": "MAO-ORD",
+        "valor": 2800.00
+    },
+    {
+        "origemDestino": "NAT-JFK",
+        "valor": 2600.00
+    },
+    {
+        "origemDestino": "FLN-SFO",
+        "valor": 2900.00
+    },
+    {
+        "origemDestino": "VCP-LHR",
+        "valor": 4100.00
+    },
+    {
+        "origemDestino": "CGR-SYD",
+        "valor": 4800.00
+    },
+    {
+        "origemDestino": "GRU-TLV",
+        "valor": 4300.00
+    },
+    {
+        "origemDestino": "GIG-HKG",
+        "valor": 5100.00
+    },
+    {
+        "origemDestino": "BSB-DXB",
+        "valor": 4500.00
+    },
+    {
+        "origemDestino": "SSA-GRU",
+        "valor": 300.00
+    },
+    {
+        "origemDestino": "CWB-EZE",
+        "valor": 700.00
+    },
+    {
+        "origemDestino": "POA-GIG",
+        "valor": 400.00
+    },
+    {
+        "origemDestino": "REC-GRU",
+        "valor": 500.00
+    },
+    {
+        "origemDestino": "BEL-BSB",
+        "valor": 600.00
+    }
+]
